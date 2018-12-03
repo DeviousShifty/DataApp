@@ -15,6 +15,7 @@
 		99ABE4F021B18A850009D101 /* BucketItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99ABE4EF21B18A850009D101 /* BucketItem.swift */; };
 		99ABE4F221B18AC70009D101 /* bucket18.csv in Resources */ = {isa = PBXBuildFile; fileRef = 99ABE4F121B18AC70009D101 /* bucket18.csv */; };
 		99ABE4F421B18B0D0009D101 /* BucketItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99ABE4F321B18B0D0009D101 /* BucketItemCell.swift */; };
+		99ABE4F621B18DC70009D101 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 99ABE4F521B18DC70009D101 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		99ABE4EF21B18A850009D101 /* BucketItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketItem.swift; sourceTree = "<group>"; };
 		99ABE4F121B18AC70009D101 /* bucket18.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = bucket18.csv; path = ../../../../Downloads/bucket18.csv; sourceTree = "<group>"; };
 		99ABE4F321B18B0D0009D101 /* BucketItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketItemCell.swift; sourceTree = "<group>"; };
+		99ABE4F521B18DC70009D101 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		99ABE4CB21B1880C0009D101 = {
 			isa = PBXGroup;
 			children = (
+				99ABE4F521B18DC70009D101 /* Default-568h@2x.png */,
 				99ABE4D621B1880C0009D101 /* DataApp */,
 				99ABE4D521B1880C0009D101 /* Products */,
 			);
@@ -166,6 +169,7 @@
 				99ABE4E221B1880D0009D101 /* LaunchScreen.storyboard in Resources */,
 				99ABE4F221B18AC70009D101 /* bucket18.csv in Resources */,
 				99ABE4DF21B1880D0009D101 /* Assets.xcassets in Resources */,
+				99ABE4F621B18DC70009D101 /* Default-568h@2x.png in Resources */,
 				99ABE4DD21B1880C0009D101 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
